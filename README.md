@@ -218,4 +218,3 @@ Here are some ideas to get you started:
 
 [![](https://visitcount.itsvg.in/api?id=pratheek-raghunath&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pratheek-raghunath.visitor-badge)
