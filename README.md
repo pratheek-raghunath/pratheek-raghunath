@@ -4,7 +4,11 @@
 
   <img width="300px" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BB%2C+This+is+Pratheek+Raghunath;Front+End+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+<!-- # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BB%2C+This+is+Pratheek+Raghunath;Front+End+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg) -->
+
+<p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BB%2C+This+is+Pratheek+Raghunath;Front+End+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a> </p>
+
+
 <!--
 **pratheek-raghunath/pratheek-raghunath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,13 +26,14 @@ Here are some ideas to get you started:
 
 # Connect with me
 <p align="left">
-
 <a href="https://www.linkedin.com/in/pratheek-raghunath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratheek-raghunath" height="30" width="40" /></a>
 <a href="https://discord.gg/radiantleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pratheek-raghunath" height="30" width="40" /></a>
 <a href="https://twitter.com/pratheek_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratheek-raghunath" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/pratheek-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pratheek-raghunath" height="30" width="40" /></a>
 </p>
 
+<br>
+<br>
 
 # 💻Tech Stack
 <p align="left">
@@ -235,6 +240,8 @@ Here are some ideas to get you started:
   
 </p>
 
+<br>
+<br>
 
 # 📊 GitHub Stats
 
