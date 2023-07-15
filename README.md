@@ -2,12 +2,13 @@
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p></p> -->
 
-  <img width="300px" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  <!-- <img width="300px" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
 
 <!-- # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BB%2C+This+is+Pratheek+Raghunath;Front+End+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg) -->
 
-<p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BB%2C+This+is+Pratheek+Raghunath;Front+End+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a> </p>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BB%2C+This+is+Pratheek+Raghunath;Front+End+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a> </p>
 
+<p align="center"><img src="https://octodex.github.com/images/Fintechtocat.png" width="200" height="200" /></p>
 
 <!--
 **pratheek-raghunath/pratheek-raghunath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-<br>
+
 
 # 💻Tech Stack
 <p align="left">
@@ -241,26 +242,19 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-<br>
+
 
 # 📊 GitHub Stats
 
-| ![Pratheek R's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratheek-raghunath&theme=transperant&show_icons=true&include_all_commits=true)
-|
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratheek-raghunath&layout=compact&theme=react)
-|
-|-|-|
-[![ GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pratheek-raghunath&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratheek-raghunath&layout=compact&theme=react) -->
 
 
-| [![Pratheek R's Github Stats](https://github-readme-stats.vercel.app/api?username=pratheek-raghunath&theme=transperant&show_icons=true&include_all_commits=true)](https://github.com/pratheek-raghunath) | [![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=pratheek-raghunath&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/pratheek-raghunath) | 
+
+| [![Pratheek R's Github Stats](https://github-readme-stats.vercel.app/api?username=pratheek-raghunath&theme=blueberry&show_icons=true&include_all_commits=true)](https://github.com/pratheek-raghunath) | [![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=pratheek-raghunath&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/pratheek-raghunath) | 
 |-|-|
 
 
-<p align="center">
- <img src="https://octodex.github.com/images/Fintechtocat.png" width="300" height="200" />
-</p>
 
-<p align="center"><img src="https://octodex.github.com/images/Fintechtocat.png" width="200" height="200" /></p>
+<!-- <p align="center"><img src="https://octodex.github.com/images/Fintechtocat.png" width="200" height="200" /></p> -->
 
 [![](https://visitcount.itsvg.in/api?id=pratheek-raghunath&icon=0&color=0)](https://visitcount.itsvg.in)
