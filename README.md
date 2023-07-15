@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"><img src="https://octodex.github.com/images/Fintechtocat.png" width="200" height="200" /></p>
+
 
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BB%2C+This+is+Pratheek+Raghunath;Front+End+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a> </p>
 
-<p align="center"><img src="https://octodex.github.com/images/Fintechtocat.png" width="200" height="200" /></p>
+
 
 
 
@@ -195,14 +197,6 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
   
 </p>
 
@@ -224,3 +218,4 @@ Here are some ideas to get you started:
 
 [![](https://visitcount.itsvg.in/api?id=pratheek-raghunath&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pratheek-raghunath.visitor-badge)
