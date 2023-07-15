@@ -1,14 +1,6 @@
-<!-- <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen ></iframe><p></p>
-
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p></p> -->
-
-  <!-- <img width="300px" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
+<!-- <img width="300px" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
 
 <!-- # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BB%2C+This+is+Pratheek+Raghunath;Front+End+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg) -->
-
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BB%2C+This+is+Pratheek+Raghunath;Front+End+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a> </p>
-
-<p align="center"><img src="https://octodex.github.com/images/Fintechtocat.png" width="200" height="200" /></p>
 
 <!--
 **pratheek-raghunath/pratheek-raghunath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Connect with me
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BB%2C+This+is+Pratheek+Raghunath;Front+End+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a> </p>
+
+<p align="center"><img src="https://octodex.github.com/images/Fintechtocat.png" width="200" height="200" /></p>
+
+
+
+# 📫 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/pratheek-raghunath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratheek-raghunath" height="30" width="40" /></a>
 <a href="https://discord.gg/radiantleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pratheek-raghunath" height="30" width="40" /></a>
@@ -106,14 +104,6 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-      alt="dart"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -162,14 +152,6 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-      alt="flask"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -178,7 +160,6 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -214,22 +195,6 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -258,3 +223,4 @@ Here are some ideas to get you started:
 <!-- <p align="center"><img src="https://octodex.github.com/images/Fintechtocat.png" width="200" height="200" /></p> -->
 
 [![](https://visitcount.itsvg.in/api?id=pratheek-raghunath&icon=0&color=0)](https://visitcount.itsvg.in)
+
