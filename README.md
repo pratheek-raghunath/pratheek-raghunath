@@ -209,7 +209,7 @@ Here are some ideas to get you started:
 
 
 
-| [![Pratheek R's Github Stats](https://github-readme-stats.vercel.app/api?username=pratheek-raghunath&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/pratheek-raghunath) | [![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratheek-raghunath&theme=github-dark-blue&mode=daily)](https://github.com/pratheek-raghunath) | 
+| [![Pratheek R's Github Stats](https://github-readme-stats.vercel.app/api?username=pratheek-raghunath&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/pratheek-raghunath) | [![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratheek-raghunath&theme=github-dark-blue)](https://github.com/pratheek-raghunath) | 
 |-|-|
 
 
